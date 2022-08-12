@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghav Srivastava
+<h1 style = "text-align : center;">👋 Hi, I’m @Raghav Srivastava</h1>
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 📫 Reach me on raghavsrvt.ml
