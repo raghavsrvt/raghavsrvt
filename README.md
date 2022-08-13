@@ -1,4 +1,4 @@
-<img src= "https://user-images.githubusercontent.com/110370170/184469467-75872fb2-e02e-4cc8-9d46-699c511afa23.png">
+<img src= "https://user-images.githubusercontent.com/110370170/184493622-3bcdf47f-38a7-4bab-b5db-20e4afc6c0bf.png">
 
 <h2>My Skills</h2>
 <br>
