@@ -1,8 +1,7 @@
-<img src= "https://user-images.githubusercontent.com/110370170/184467486-848afebe-3afc-4b6a-8f7e-fae97174dc1c.png">
-<b>I love ❤️ <b>web development</b>.
+<img src= "https://user-images.githubusercontent.com/110370170/184469467-75872fb2-e02e-4cc8-9d46-699c511afa23.png">
 <br>
+
 📫 Reach me on my <a href = "raghavsrvt.ml/#contact"><b>Website.</b></a>
-<!---
-RaghavSrvt-dev/RaghavSrvt-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2>My Skills</h2>
+<img src = "https://user-images.githubusercontent.com/110370170/184469640-b96bbd2f-1f3c-470c-b0ff-84cd7a857be9.png" width = "100%">
