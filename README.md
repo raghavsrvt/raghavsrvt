@@ -1,12 +1,22 @@
-<img src= "https://user-images.githubusercontent.com/110370170/184493622-3bcdf47f-38a7-4bab-b5db-20e4afc6c0bf.png">
+<h1 align = 'center'>Hi 👋, I am Raghav</h1>
+<h3 align = 'center'>I am a web development enthusiast from India</h3>
 
-<h2>My Skills</h2>
-<br>
-<img src = "https://user-images.githubusercontent.com/110370170/184469640-b96bbd2f-1f3c-470c-b0ff-84cd7a857be9.png" width = "100%">
-<br>
-<p><b>HTML ➡️</b> I know like 85% of the HTML.</p>
-<p><b>CSS ➡️</b> I am very good at CSS. I have designed many websites using it. I am very good at designing websites too.</p>
-<p><b>JavaScript ➡️</b> I like JavaScript a lot. I am at intermediate level at it.</p>
+<div align = 'center'>
+<img src ="https://github-readme-stats.vercel.app/api?username=RaghavSrvt-dev&show_icons=true&theme=tokyonight&hide_border=true" height = "180px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSrvt-dev&layout=compact&theme=tokyonight&hide_border=true" height = "180px">
+</div>
 
-<h2>Reach Me</h2>
-<p>📫 Reach me on my <a href = "https://raghavsrvt.ml/#contact"><b>Website.</b></a></p>
+<div align = 'center'>
+<h3>Top Respositories 💻️</h3>
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=raghavsrvt-dev.github.io&theme=tokyonight&hide_border=true" height = "135px">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=ResqSolutions-clone.ml&theme=tokyonight&hide_border=true" height = "135px">
+</div>
+
+<div align = 'center'>
+<h3>Languages I know 🧑‍💻</h3>
+<img height="80" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="80" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="70" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</div>
+
+<a href = 'https://raghavsrvt.ml/#contact'><h3 align = 'center'>Contact Me 📫</h3><a>
