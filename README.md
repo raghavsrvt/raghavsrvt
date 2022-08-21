@@ -14,9 +14,14 @@
 
 <div align = 'center'>
 <h3>🔤 Languages I know</h3>
-<img height="80" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="80" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="70" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+<!--<img height="70" alt="html" src="https://user-images.githubusercontent.com/110370170/185787686-4fc36850-f45a-47db-924c-3caa1ba97b9e.png">
+<img height="70" alt="css" src="https://user-images.githubusercontent.com/110370170/185787685-18fb925c-015b-4c30-9bfd-4dceb9aba6a2.png">
+&nbsp;&nbsp;&nbsp;
+<img height="70" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">-->
+
+<img src = 'https://user-images.githubusercontent.com/110370170/185788236-706de0f0-8802-45bf-bbdc-1a822d8e9058.png' height = '120px'>
+
 </div>
-<hr>
+
 <h3 align = 'center'>💬 Ask me about anything <a href = 'https://raghavsrvt.ml/#contact'>Here.<a></h3>
