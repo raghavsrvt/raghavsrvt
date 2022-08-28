@@ -9,7 +9,7 @@
 <div align = 'center'>
 <h3>💻️ Top Respositories</h3>
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=raghavsrvt-dev.github.io&theme=tokyonight&hide_border=true" height = "147px">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=ResqSolutions-clone.ml&theme=tokyonight&hide_border=true" height = "147px">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=MathZ&theme=tokyonight&hide_border=true" height = "147px">
 </div>
 
 <div align = 'center'>
