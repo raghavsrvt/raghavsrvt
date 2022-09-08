@@ -8,17 +8,16 @@
 
 <div align = 'center'>
 <h3>💻️ Top Respositories</h3>
+<a href='https://github.com/RaghavSrvt-dev/raghavsrvt-dev.github.io' target = '_blank'> 
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=raghavsrvt-dev.github.io&theme=tokyonight&hide_border=true" height = "147px">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=MathZ&theme=tokyonight&hide_border=true" height = "147px">
+</a>
+<a href='https://github.com/RaghavSrvt-dev/MathZ' target = '_blank'>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=MathZ&theme=tokyonight&hide_border=true" height = "147px">
+</a>
 </div>
 
 <div align = 'center'>
 <h3>🔤 Languages I know</h3>
-
-<!--<img height="70" alt="html" src="https://user-images.githubusercontent.com/110370170/185787686-4fc36850-f45a-47db-924c-3caa1ba97b9e.png">
-<img height="70" alt="css" src="https://user-images.githubusercontent.com/110370170/185787685-18fb925c-015b-4c30-9bfd-4dceb9aba6a2.png">
-&nbsp;&nbsp;&nbsp;
-<img height="70" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">-->
 
 <img src = 'https://user-images.githubusercontent.com/110370170/185788236-706de0f0-8802-45bf-bbdc-1a822d8e9058.png' height = '120px'>
 
