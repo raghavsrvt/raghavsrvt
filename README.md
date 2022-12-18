@@ -2,17 +2,17 @@
 <h3 align = 'center'>🧑‍💻 I am a web development enthusiast from India</h3>
 
 <div align = 'center'>
-<img src ="https://github-readme-stats.vercel.app/api?username=RaghavSrvt-dev&show_icons=true&theme=tokyonight&hide_border=true" height = "167px">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSrvt-dev&layout=compact&theme=tokyonight&hide_border=true" height = "167px">
+<img src ="https://github-readme-stats.vercel.app/api?username=raghavsrvt&show_icons=true&theme=tokyonight&hide_border=true" height = "167px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsrvt&layout=compact&theme=tokyonight&hide_border=true" height = "167px">
 </div>
 
 <div align = 'center'>
 <h3>💻️ Top Respositories</h3>
-<a href='https://github.com/RaghavSrvt-dev/raghavsrvt-dev.github.io' target="_blank"> 
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=raghavsrvt-dev.github.io&theme=tokyonight&hide_border=true" height = "147px">
+<a href='https://github.com/raghavsrvt/raghavsrvt.github.io' target="_blank"> 
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=raghavsrvt.github.io&theme=tokyonight&hide_border=true" height = "147px">
 </a>
-<a href='https://github.com/RaghavSrvt-dev/MathZ' target="_blank">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=RaghavSrvt-dev&repo=MathZ&theme=tokyonight&hide_border=true" height = "147px">
+<a href='https://github.com/raghavsrvt/MathZ' target="_blank">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=MathZ&theme=tokyonight&hide_border=true" height = "147px">
 </a>
 </div>
 
@@ -23,4 +23,4 @@
 
 </div>
 
-<h3 align = 'center'>💬 Ask me about anything <a href = 'https://raghavsrvt.ml/#contact'>Here.<a></h3>
+<h3 align = 'center'>💬 Ask me about anything <a href = 'https://raghavsrvt.github.io/#contact'>Here.<a></h3>
