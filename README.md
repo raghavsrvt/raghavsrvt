@@ -8,10 +8,10 @@
 
 <div align = 'center'>
 <h3>💻️ Top Respositories</h3>
-<a href='https://github.com/raghavsrvt/raghavsrvt.github.io' target="_blank"> 
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=raghavsrvt.github.io&theme=tokyonight&hide_border=true" height = "147px">
+<a href='https://github.com/raghavsrvt/students_lounge' target="_blank"> 
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=students_lounge&theme=tokyonight&hide_border=true" height = "147px">
 </a>
-<a href='https://github.com/raghavsrvt/MathZ' target="_blank">
+<a href='https://raghavsrvt.github.io/Recordify/' target="_blank">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=Recordify&theme=tokyonight&hide_border=true" height = "147px">
 </a>
 </div>
