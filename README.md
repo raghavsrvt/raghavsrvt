@@ -12,7 +12,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=students_lounge&theme=tokyonight&hide_border=true" height = "147px">
 </a>
 <a href='https://raghavsrvt.github.io/Recordify/' target="_blank">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=Recordify&theme=tokyonight&hide_border=true" height = "147px">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=MathZ&theme=tokyonight&hide_border=true" height = "147px">
 </a>
 </div>
 
