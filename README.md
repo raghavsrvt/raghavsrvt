@@ -1,5 +1,5 @@
 <h1 align = 'center'>Hi 👋, I am Raghav</h1>
-<h3 align = 'center'>🧑‍💻 I am a web development enthusiast from India</h3>
+<h3 align = 'center'>🧑‍💻 I am a web development and design enthusiast from India</h3>
 
 <div align = 'center'>
 <img src ="https://github-readme-stats.vercel.app/api?username=raghavsrvt&show_icons=true&theme=tokyonight&hide_border=true" height = "167px">
