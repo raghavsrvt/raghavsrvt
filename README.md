@@ -8,19 +8,15 @@
 
 <div align = 'center'>
 <h3>💻️ Top Respositories</h3>
+<a href='https://github.com/raghavsrvt/EasyPolls' target="_blank"> 
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=EasyPolls&theme=tokyonight&hide_border=true" height = "147px">
+</a>
 <a href='https://github.com/raghavsrvt/students_lounge' target="_blank"> 
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=students_lounge&theme=tokyonight&hide_border=true" height = "147px">
-</a>
-<a href='https://raghavsrvt.github.io/Recordify/' target="_blank">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=raghavsrvt&repo=MathZ&theme=tokyonight&hide_border=true" height = "147px">
 </a>
 </div>
 
 <div align = 'center'>
 <h3>🔤 Languages I know</h3>
-
-<img src = 'https://user-images.githubusercontent.com/110370170/185788236-706de0f0-8802-45bf-bbdc-1a822d8e9058.png' height = '120px'>
-
+<img src = 'https://skillicons.dev/icons?i=python,js,html,css' height = '75px'>
 </div>
-
-<h3 align = 'center'>💬 Ask me about anything <a href = 'https://raghavsrvt.github.io/#contact'>Here.<a></h3>
